@@ -14,7 +14,7 @@ LINK DE LA PLANIFICACIÓN EN TRELLO
 LINK DEL DISEÑO DE LOS MOCKUPS
     https://www.figma.com/file/1OAgu6OSmAaGo6IoOJ3JUe/Colegio-Salarrue?type=design&node-id=0%3A1&mode=design&t=Gc5cAnv9fsmYTyxO-1
 
-LICENCIA CREATIVE COMMONS IMPLEMENTADA
+LICENCIA CREATIVE COMMONS IMPLEMENTADA:
    
     Sistema de Gestión de Notas para el Colegio Salarrué, Sonsonate © 2024 está bajo la licencia Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0 DEED)
     
