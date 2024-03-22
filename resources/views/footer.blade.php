@@ -1,4 +1,4 @@
-<div style="width: 100%; margin-top:-45px">
+<div style="width: 100%; margin-top:-45px; color:black">
     <nav class="navbar navbar-expand-lg border-bottom border-body pt-4" data-bs-theme="dark" style="background-color: CFCBCB" >         
         <div class="container-fluid mx-auto d-block">
             <div class="row align-items-center justify-content-center">
