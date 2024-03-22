@@ -2,26 +2,110 @@
     <body class="m-0" style="background-color: F1F1F1">
         @include('navbar')
         <div class="container py-5 mt-4" style="background-color: F1F1F1; width:100%">
-            <div class="row">
+            <div class="row text-center">
                 <div class="col-xl-7">
-                    <div class="card my-3" style="max-width: 100%;">
-                        <div class="row g-0">
-                            <div class="col-md-3" style="align-items: center;display: flex;justify-content: center;">
-                                <img height="200" width="200" src="http://127.0.0.1:8000/img/foto.png" class="img rounded-start mx-auto d-block" alt="...">
-                            </div>
-                            <div class="col-md-9">
-                                <div class="card-body text-center">
-                                    <h3 class="card-title text-center" style="font-size:20pt; font-weight:bold">Nombre del usuario</h3>
-                                    <p class="card-text text-center" style="font-style:italic">Administrador</p>
-                                    <a href="#" class="btn btn-warning text-center mt-4">Ver información</a>
-                                </div>
-                            </div>
+                    <div class="row" style="align-items: center;display: flex;justify-content: center;">
+                      <div class="col-12">
+                        <div class="card my-3" style="max-width: 100%;">
+                          <div class="row g-0">
+                              <div class="col-md-3" style="align-items: center;display: flex;justify-content: center;">
+                                  <img height="200" width="200" src="http://127.0.0.1:8000/img/foto.png" class="img rounded-start mx-auto d-block" alt="...">
+                              </div>
+                              <div class="col-md-9">
+                                  <div class="card-body text-center">
+                                      <h3 class="card-title text-center" style="font-size:20pt; font-weight:bold">Nombre del usuario</h3>
+                                      <p class="card-text text-center" style="font-style:italic">Administrador</p>
+                                      <a href="#" class="btn btn-warning text-center mt-4">Ver información</a>
+                                  </div>
+                              </div>
+                          </div>
                         </div>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión docentes</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión estudiantes</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión año escolar</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-regular fa-calendar-days"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión secciones</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-chalkboard-user"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión grados</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-school"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión materias</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-book"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión administradores</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
+                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
+                        <a href="#">
+                        <div class="card" style="width: 100%; height:200">
+                          <h5 class="card-header bg-warning">Gestión usuarios</h5>
+                          <div class="card-body">
+                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
+                          </div>
+                        </div>
+                        </a>
+                      </div>
                     </div>
                 </div>
                 <div class="col-xl-5">
                     <div class="card my-3">
-                        <div class="card-header">
+                        <div class="card-header bg-warning">
                             <h5 class="heading-section text-center">Calendario</h5>
                         </div>
                         <div class="card-body">
