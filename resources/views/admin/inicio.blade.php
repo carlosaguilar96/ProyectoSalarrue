@@ -9,7 +9,7 @@
                         <div class="card my-3" style="max-width: 100%;">
                           <div class="row g-0">
                               <div class="col-md-3" style="align-items: center;display: flex;justify-content: center;">
-                                  <img height="200" width="200" src="http://127.0.0.1:8000/img/foto.png" class="img rounded-start mx-auto d-block" alt="...">
+                                  <img height="200" width="200" src="http://127.0.0.1:8000/img/foto.png" class="img rounded-start mx-auto d-block p-2" alt="...">
                               </div>
                               <div class="col-md-9">
                                   <div class="card-body text-center">
