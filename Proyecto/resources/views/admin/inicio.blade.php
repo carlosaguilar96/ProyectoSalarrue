@@ -22,19 +22,9 @@
                         </div>
                       </div>
                       <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
-                        <a href="#">
+                        <a href="{{ route('admin.gestionUsuarios') }}">
                         <div class="card" style="width: 100%; height:200">
-                          <h5 class="card-header bg-warning">Gestión docentes</h5>
-                          <div class="card-body">
-                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
-                          </div>
-                        </div>
-                        </a>
-                      </div>
-                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
-                        <a href="#">
-                        <div class="card" style="width: 100%; height:200">
-                          <h5 class="card-header bg-warning">Gestión estudiantes</h5>
+                          <h5 class="card-header bg-warning">Gestión usuarios</h5>
                           <div class="card-body">
                             <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
                           </div>
@@ -77,26 +67,6 @@
                           <h5 class="card-header bg-warning">Gestión materias</h5>
                           <div class="card-body">
                             <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-book"></i></p>
-                          </div>
-                        </div>
-                        </a>
-                      </div>
-                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
-                        <a href="#">
-                        <div class="card" style="width: 100%; height:200">
-                          <h5 class="card-header bg-warning">Gestión administradores</h5>
-                          <div class="card-body">
-                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
-                          </div>
-                        </div>
-                        </a>
-                      </div>
-                      <div class="col-xl-4 col-lg-3 col-md-4 col-6 mb-3">
-                        <a href="#">
-                        <div class="card" style="width: 100%; height:200">
-                          <h5 class="card-header bg-warning">Gestión usuarios</h5>
-                          <div class="card-body">
-                            <p class="card-text" style="font-size:70pt"><i class="fa-solid fa-users"></i></p>
                           </div>
                         </div>
                         </a>
